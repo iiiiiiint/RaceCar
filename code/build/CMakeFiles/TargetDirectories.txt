@@ -1,0 +1,3 @@
+C:/Users/dell/Desktop/A_final(2)/A_final/build/CMakeFiles/RaceCar.dir
+C:/Users/dell/Desktop/A_final(2)/A_final/build/CMakeFiles/edit_cache.dir
+C:/Users/dell/Desktop/A_final(2)/A_final/build/CMakeFiles/rebuild_cache.dir
